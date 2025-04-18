@@ -28,6 +28,12 @@ Provide actionable insights for cricket analysts, fans, and enthusiasts
 - [Microsoft Excel / CSV](https://www.microsoft.com/en-us/microsoft-365/excel) – for raw data preparation  
 - **DAX (Data Analysis Expressions)** – for custom calculations  
 - Basic data wrangling & transformation in Power Query
+  
+# Repository Structure
+Data 1 - https://github.com/Ay-241197/Power-Bi-Dashboard-Project/blob/main/all_champions_trophy_matches_results.csv
+Data 2-  https://github.com/Ay-241197/Power-Bi-Dashboard-Project/blob/main/all_champions_trophy_players_list.csv
+Dashboard - https://github.com/Ay-241197/Power-Bi-Dashboard-Project/blob/main/ICC%20Champions%20Trophy%20Cricket%20Analysis%20Report.pbix
+Images -  ![Screenshot_19-4-2025_3018_ms-pbi pbi microsoft com](https://github.com/user-attachments/assets/170594bc-4625-45e4-86c6-4a334a2df50f)
 
 # Future Enhancements:
 Integration with real-time data APIs
